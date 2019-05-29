@@ -24,12 +24,12 @@ typedef struct Node {
 	struct Node* next;
 }Node;
 
-const char* NaF = "Ошибка при открытии файла.";
-const char* NaL = "Ошибка при работе со списком.";
-const char* Quit = "Вы решили выйти.";
-const char* IO = "Ошибка I/O";
-const char* Press = "Для продолжения нажать на любую кнопку.";
-const char* Bounds = "Вне конца списка!";
+const char* NaF = "РћС€РёР±РєР° РїСЂРё РѕС‚РєСЂС‹С‚РёРё С„Р°Р№Р»Р°.";
+const char* NaL = "РћС€РёР±РєР° РїСЂРё СЂР°Р±РѕС‚Рµ СЃРѕ СЃРїРёСЃРєРѕРј.";
+const char* Quit = "Р’С‹ СЂРµС€РёР»Рё РІС‹Р№С‚Рё.";
+const char* IO = "РћС€РёР±РєР° I/O";
+const char* Press = "Р”Р»СЏ РїСЂРѕРґРѕР»Р¶РµРЅРёСЏ РЅР°Р¶Р°С‚СЊ РЅР° Р»СЋР±СѓСЋ РєРЅРѕРїРєСѓ.";
+const char* Bounds = "Р’РЅРµ РєРѕРЅС†Р° СЃРїРёСЃРєР°!";
 
 
 
